@@ -1,2 +1,2 @@
 # Example 1
-##topic1
+##TOPIC1
